@@ -9,6 +9,13 @@ import 'cubit/social_cubit.dart';
 import 'cubit/social_states.dart';
 
 class SocialAppLayout extends StatelessWidget {
+  // hello
+  // hello
+  // hello
+  // hello
+  // hello
+  // hello
+  // hello
   @override
   Widget build(BuildContext context) {
     return BlocConsumer<SocialCubit, SocialStates>(
